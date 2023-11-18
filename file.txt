@@ -2,6 +2,6 @@ Hello
 
 This is some code
 
-If you want the axe do this...
+If you want the axe do this ...
 
 This is some more code
